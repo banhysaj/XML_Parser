@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/p77N8hlL4zfbNMapw5T9ghzzXES41JV74fS+gexxbb2Nluvj3iPOSgkXAOH6D5A9BhbHny5H0S5RroRKdlwyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alban_dfif\\Desktop\\XmlParser\\XmlParser\\XmlParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alban_dfif\\.nuget\\packages\\stateless\\5.16.0\\stateless.5.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}

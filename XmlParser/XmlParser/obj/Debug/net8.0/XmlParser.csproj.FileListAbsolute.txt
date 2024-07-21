@@ -1,0 +1,17 @@
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.AssemblyInfoInputs.cache
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.AssemblyInfo.cs
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.csproj.CoreCompileInputs.cache
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\bin\Debug\net8.0\XmlParser.exe
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\bin\Debug\net8.0\XmlParser.deps.json
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\bin\Debug\net8.0\XmlParser.runtimeconfig.json
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\bin\Debug\net8.0\XmlParser.dll
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\bin\Debug\net8.0\XmlParser.pdb
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.dll
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\refint\XmlParser.dll
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.pdb
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.genruntimeconfig.cache
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\ref\XmlParser.dll
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\bin\Debug\net8.0\Stateless.dll
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.csproj.AssemblyReference.cache
+C:\Users\alban_dfif\Desktop\XmlParser\XmlParser\obj\Debug\net8.0\XmlParser.csproj.Up2Date

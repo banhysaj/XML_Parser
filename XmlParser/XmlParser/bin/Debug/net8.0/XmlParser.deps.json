@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "XmlParser/1.0.0": {
+        "dependencies": {
+          "Stateless": "5.16.0"
+        },
+        "runtime": {
+          "XmlParser.dll": {}
+        }
+      },
+      "Stateless/5.16.0": {
+        "runtime": {
+          "lib/net8.0/Stateless.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.16.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XmlParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stateless/5.16.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oGMd62r6wdj7LDOl7oOD2wJdjjK1Zum5UnV4lTDLdKiJAfAGF1SRaBKpX1TtmP1QKocPy4+94zazSZfHcowZCw==",
+      "path": "stateless/5.16.0",
+      "hashPath": "stateless.5.16.0.nupkg.sha512"
+    }
+  }
+}
